@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/davidbcaro/davidbcaro.svg)](http://hits.dwyl.com/davidbcaro/davidbcaro)
+
 <!--
 **davidbcaro/davidbcaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
