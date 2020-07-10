@@ -1,6 +1,6 @@
 # David 
 
-![Profile views](https://github.com/davidbcaro.svg)
+![Profile views]http://hits.dwyl.com/davidbcaro/davidbcaro.svg)
 ![GitHub followers](https://img.shields.io/github/followers/davidbcaro?style=social)
 [![Profile](http://hits.dwyl.com/davidbcaro/davidbcaro.svg)](http://hits.dwyl.com/davidbcaro/davidbcaro)
 
