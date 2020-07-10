@@ -1,6 +1,6 @@
 # David 
 
-![Profile views](http://hits.dwyl.com/davidbcaro/davidbcaro.svg)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdavidbcaro%2Fhit-counter)
 ![GitHub followers](https://img.shields.io/github/followers/davidbcaro?style=social)
 [![Hits](http://hits.dwyl.com/davidbcaro/davidbcaro.svg)](http://hits.dwyl.com/davidbcaro/davidbcaro)
 
