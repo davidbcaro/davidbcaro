@@ -1,10 +1,9 @@
 # David 
 
-![Profile views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdavidbcaro%2Fhit-counter)
 ![GitHub followers](https://img.shields.io/github/followers/davidbcaro?style=social)
 [![Hits](http://hits.dwyl.com/davidbcaro/davidbcaro.svg)](http://hits.dwyl.com/davidbcaro/davidbcaro)
 
-### Hi there 👋
+### Hi 👋
 
 <!--
 **davidbcaro/davidbcaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
