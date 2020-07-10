@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/davidbcaro?style=social)
 [![Hits](http://hits.dwyl.com/davidbcaro/davidbcaro.svg)](http://hits.dwyl.com/davidbcaro/davidbcaro)
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdavidbcaro" alt="Profile views">
+<!-- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdavidbcaro" alt="Profile views"> -->
 
 ### Hi 👋
 
