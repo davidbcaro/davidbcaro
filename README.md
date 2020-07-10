@@ -2,7 +2,7 @@
 
 ![Profile views](https://github.com/davidbcaro.svg)
 ![GitHub followers](https://img.shields.io/github/followers/davidbcaro?style=social)
-[![HitCount](http://hits.dwyl.com/davidbcaro/davidbcaro.svg)](http://hits.dwyl.com/davidbcaro/davidbcaro)
+[![Profile](http://hits.dwyl.com/davidbcaro/davidbcaro.svg)](http://hits.dwyl.com/davidbcaro/davidbcaro)
 
 ### Hi there 👋
 
