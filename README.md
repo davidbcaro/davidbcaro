@@ -5,14 +5,8 @@
   <img src="https://github.com/davidbcaro/davidbcaro/blob/master/mb.gif" width="100" height="100">
 </p>
 
-### Hi, i'm David. 👨🏻‍💻 ⚡️ 
-- 💻 Developer 
+### Hi, i'm David ⚡️ 
 
-```py
-print("Hello, world!👋")
-```
-
-> "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." R. Feynman
 <!--
 **davidbcaro/davidbcaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
