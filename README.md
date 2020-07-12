@@ -5,10 +5,11 @@
   <img src="https://github.com/davidbcaro/davidbcaro/blob/master/mb.gif" width="100" height="100">
 </p>
 
-### Hi 👋
+### Hi, i'm David. 👨🏻‍💻 ⚡️ 
+- 💻 Developer 
 
 ```py
-print("Hello, world! 👋")
+print("Hello, world!👋")
 ```
 
 > "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." R. Feynman
