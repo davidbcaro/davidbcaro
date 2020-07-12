@@ -6,7 +6,7 @@
 </p>
 
 ### Hi 👋
-> __"If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning."__ Feynman
+> "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." R. Feynman
 <!--
 **davidbcaro/davidbcaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
