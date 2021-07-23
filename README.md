@@ -1,5 +1,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/davidbcaro?style=social)
-[![Hits](http://hits.dwyl.com/davidbcaro/davidbcaro.svg)](http://hits.dwyl.com/davidbcaro/davidbcaro)
 
 <p align="left">
   <img src="https://github.com/davidbcaro/davidbcaro/blob/master/mb.gif" width="100" height="100">
