@@ -5,4 +5,3 @@
 </p>
 
 ### Hi. I'm David ⚡️ 
-![Metrics](https://github.com/davidbcaro/davidbcaro/blob/master/github-metrics.svg)
