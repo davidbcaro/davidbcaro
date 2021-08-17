@@ -14,7 +14,7 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
+          template: terminal
           plugin_languages: yes
           plugin_languages_ignored: html, css, java, php, plsql, jupyter notebook, hack
           plugin_topics: yes
