@@ -281,14 +281,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 23kb of code in 99 edited files across 30 commits over last 7 days</small>
+                <small>estimation from 22.3kb of code in 94 edited files across 26 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.2749454096649" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.2749454096649" y="0" width="1.7250545903351373" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.2173166544028" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.2173166544028" y="0" width="1.7826833455972528" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -336,7 +336,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Feb 2024, 01:37:58  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Feb 2024, 02:11:56  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
